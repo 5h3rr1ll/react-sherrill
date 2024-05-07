@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-sherrill/static/css/main.e1d6f05c.css",
+    "main.js": "/react-sherrill/static/js/main.8d6a6cfb.js",
+    "static/js/453.ed17bc16.chunk.js": "/react-sherrill/static/js/453.ed17bc16.chunk.js",
+    "static/media/sherrill_logo.png": "/react-sherrill/static/media/sherrill_logo.1b858c0c51db333fcac0.png",
+    "index.html": "/react-sherrill/index.html",
+    "main.e1d6f05c.css.map": "/react-sherrill/static/css/main.e1d6f05c.css.map",
+    "main.8d6a6cfb.js.map": "/react-sherrill/static/js/main.8d6a6cfb.js.map",
+    "453.ed17bc16.chunk.js.map": "/react-sherrill/static/js/453.ed17bc16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1d6f05c.css",
+    "static/js/main.8d6a6cfb.js"
+  ]
+}
